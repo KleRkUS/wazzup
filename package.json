@@ -24,7 +24,7 @@
     "pg": "^7.4.2",
     "pg-hstore": "^2.3.2",
     "request": "^2.85.0",
-    "sequelize": "^4.37.6",
+    "sequelize": "^5.15.1",
     "sequelize-cli": "^5.5.1",
     "sqlite3": "^4.0.6",
     "validate.js": "^0.12.0"
